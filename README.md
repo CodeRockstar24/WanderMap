@@ -3,7 +3,7 @@ WanderMap: Smart Travel Recommendation System
 WanderMap is an intelligent travel recommendation application that suggests top destinations based on a combination of popularity, geographical proximity, and travel category (e.g., nature, urban, adventure).
 
 🚀 Key Features
-✅ Smart Destination Matching: Recommends destinations using a hybrid approach of geospatial clustering and ranking algorithms.
+✅ Smart Destination Matching: Recommends destinations using a hybrid approach of geospatial spectral clustering and ranking algorithms.
 
 📍 Geolocation-Aware: Uses BallTree indexing for efficient spatial queries, enabling fast and accurate nearby destination suggestions.
 
