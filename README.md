@@ -1,2 +1,3 @@
 # WanderMap
-WanderMap is a travel recommendation app that suggests top destinations based on popularity, location proximity, and category. It leverages geospatial indexing with BallTree and integrates LLMs for personalized travel insights. Built with Python, it offers smart, dynamic travel plans tailored to user preferences.
+WanderMap is a travel recommendation app that suggests top destinations based on popularity, location proximity, and category. It leverages geospatial indexing with BallTree and integrates LLMs (Groq AI) for personalized travel insights. Built with Python, it offers smart, dynamic travel plans tailored to user preferences. 
+
