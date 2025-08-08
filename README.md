@@ -17,7 +17,7 @@ WanderMap is an intelligent travel recommendation application that suggests top 
 
 🧭 BallTree for optimized geospatial nearest neighbor search. 
 
-# front-end is still in development..
+--front-end is still in development..
 
 🛠️ Built With
 Python – the core engine for processing, recommendation, and data flow.
